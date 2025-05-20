@@ -8,7 +8,7 @@ import torch.nn.functional as F
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 gan = GAN()
-gan.load_state_dict(torch.load("C:/Users/amita/Downloads/best_ghibli_model4.pth"))
+gan.load_state_dict(torch.load("path/to/model4.pth"))
 gan.to(device)
 gan.eval()
 generator = gan.generator
@@ -19,7 +19,7 @@ transform = transforms.Compose([
     transforms.Normalize(mean=[0.5]*3, std=[0.5]*3)
 ])
 
-img = Image.open(r"").convert("RGB")
+img = Image.open(r"path/to/image.png").convert("RGB")
 original_size = img.size
 print(original_size)
 reverse_transform = transforms.Resize(original_size[::-1])
