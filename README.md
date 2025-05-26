@@ -18,7 +18,7 @@ Dataset <a href="https://www.kaggle.com/datasets/labledata/ghibli-dataset">link<
     <td><img width="300" src="/images/predicted_image43.png"/></td>
   </tr>
   <tr>
-    <td><img width="300" src="/images/original_image5.png"/></td>
+    <td><img width="300" src="/images/original_image5.jpg"/></td>
     <td><img width="300" src="/images/predicted_image45.png"/></td>
   </tr>
 </table>
