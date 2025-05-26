@@ -10,7 +10,7 @@ Dataset <a href="https://www.kaggle.com/datasets/labledata/ghibli-dataset">link<
     <td>Model Output</td>
   </tr>
   <tr>
-    <td><img style="height:500; width:500;" src="/images/original_image2.jpg"/></td>
+    <td><img height="500" width="500" src="/images/original_image2.jpg"/></td>
     <td><img src="/images/predicted_image42.png"/></td>
   </tr>
   <tr>
