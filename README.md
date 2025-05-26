@@ -22,3 +22,8 @@ Dataset <a href="https://www.kaggle.com/datasets/labledata/ghibli-dataset">link<
     <td><img width="300" src="/images/predicted_image45.png"/></td>
   </tr>
 </table>
+
+
+## Notes
+
+As you can see from the output, it is not completely giving desired outputs. One reason might be downsampling. If we keep the resolution high, we might be able to retain the low level features like eyes and nose. But that requires more computation power and kaggle and google colab's free version are not sufficient. Hence, it is not yet complete.
