@@ -10,11 +10,11 @@ Dataset <a href="https://www.kaggle.com/datasets/labledata/ghibli-dataset">link<
     <td>Model Output</td>
   </tr>
   <tr>
-    <td><img src="/images/original_image2.png"/></td>
+    <td><img src="/images/original_image2.jpg"/></td>
     <td><img src="/images/predicted_image42.png"/></td>
   </tr>
   <tr>
-    <td><img src="/images/original_image3.png"/></td>
+    <td><img src="/images/original_image3.jpg"/></td>
     <td><img src="/images/predicted_image43.png"/></td>
   </tr>
   <tr>
